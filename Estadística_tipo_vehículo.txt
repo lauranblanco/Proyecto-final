@@ -1,0 +1,6 @@
+Cantidad de estacionados segun tipo de vehiculo
+('Total de ocupacion', 0)
+('Automovil', 0)
+('Automovil electrico', 0)
+('Motocicleta', 0)
+('Discapacitados', 0)

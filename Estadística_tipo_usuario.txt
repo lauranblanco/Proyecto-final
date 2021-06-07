@@ -1,0 +1,6 @@
+Cantidad de vehiculos estacionados segun tipo de usuario
+('Total de ocupacion', 0)
+('Personal Administrativo', 0)
+('Profesores', 0)
+('Estudiantes', 0)
+('Visitantes', 0)

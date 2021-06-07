@@ -1,0 +1,18 @@
+{
+    "5/6/21": {
+        "Registrados": [],
+        "Visitantes": [
+            [
+                "Visitante",
+                "ABC123",
+                "Motocicleta",
+                "Diario",
+                [
+                    "Piso1",
+                    9,
+                    8
+                ]
+            ]
+        ]
+    }
+}
