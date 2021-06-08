@@ -613,7 +613,7 @@ def archivos_1():
 		["Calixte Belford", 66595778, "Profesor", "PHE566", "Automóvil Eléctrico", "Diario"],
 		["Abundiantus Calixto", 95902170, "Personal Administrativo", "MOI952", "Automóvil", "Diario"],
 		["Sigi Sharpe", 47953025, "Profesor", "CMJ913", "Motocicleta", "Mensualidad"]]}
-    with open('Usuarios.json','w') as file:
+    with open('usuarios.json','w') as file:
         json.dump(x,file,indent=4)
     y={"Piso1": [[4, 4, 1, 2, 2, 2, 1, 1, 1, 4], 
     [1, 4, 1, 4, 1, 3, 1, 4, 2, 4], 
@@ -670,7 +670,7 @@ def archivos_1():
     [2, 3, 2, 1, 1, 4, 2, 3, 2, 1], 
     [2, 3, 1, 2, 2, 4, 2, 2, 1, 2], 
     [1, 3, 2, 1, 4, 2, 2, 2, 1, 2]]}
-    with open('Tipos_Parqueaderos.json','w') as file:
+    with open('tipos_parqueaderos.json','w') as file:
         json.dump(y,file,indent=4)
     dis={"Piso1": [[4, 4, 1, 2, 2, 2, 1, 1, 1, 4], 
     [1, 4, 1, 4, 1, 3, 1, 4, 2, 4], 
@@ -727,7 +727,7 @@ def archivos_1():
     [2, 3, 2, 1, 1, 4, 2, 3, 2, 1], 
     [2, 3, 1, 2, 2, 4, 2, 2, 1, 2], 
     [1, 3, 2, 1, 4, 2, 2, 2, 1, 2]]}
-    with open('Disponibilidad.json','w') as file:
+    with open('disponibilidad.json','w') as file:
         json.dump(dis,file,indent=4)
 def arch_ingreso_salida():
     k={}
